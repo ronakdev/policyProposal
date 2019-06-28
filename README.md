@@ -5,7 +5,7 @@ A Demonstration of Github for Policy Proposal
 
 1. [Issue #1](#issue-1)
 2. [Issue #2](#issue-2)
-
+3. [Github](#github)
 
 
 Issue #1
@@ -22,3 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Ultrices gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Enim nunc faucibus a pellentesque. Ac tortor vitae purus faucibus ornare suspendisse. Euismod lacinia at quis risus sed vulputate odio ut enim. Sed enim ut sem viverra. Sed velit dignissim sodales ut eu sem. Nunc sed augue lacus viverra vitae congue eu. Enim sit amet venenatis urna. Leo urna molestie at elementum eu facilisis sed. Tortor posuere ac ut consequat semper. Sit amet nisl purus in mollis nunc. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Dignissim suspendisse in est ante in. Non sodales neque sodales ut etiam. Pharetra magna ac placerat vestibulum lectus mauris ultrices eros in. Sit amet commodo nulla facilisi nullam vehicula ipsum a arcu. Enim sit amet venenatis urna cursus eget nunc scelerisque. Interdum varius sit amet mattis vulputate.
 
+Github
+-------
+GitHub Enterprise is the new unified product for Enterprise Cloud (formerly GitHub Business Cloud) and Enterprise Server (formerly GitHub Enterprise). Organizations that want the flexibility to use GitHub in a cloud or self-hosted configuration can now access both at one per-seat price. And with GitHub Connect, these products can be securely linked, providing a hybrid option so developers can work seamlessly across both environments. (github.com)

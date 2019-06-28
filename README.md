@@ -25,3 +25,5 @@ Ultrices gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Eni
 Github
 -------
 GitHub Enterprise is the new unified product for Enterprise Cloud (formerly GitHub Business Cloud) and Enterprise Server (formerly GitHub Enterprise). Organizations that want the flexibility to use GitHub in a cloud or self-hosted configuration can now access both at one per-seat price. And with GitHub Connect, these products can be securely linked, providing a hybrid option so developers can work seamlessly across both environments. (github.com)
+
+Github is also secure. In fact, 'Millions of teams trust GitHub to keep their work safe. Our team of experts goes beyond industry standards to secure our platform. And builds features that help you do the same.'. Learn more at [https://github.com/security](https://github.com/security)

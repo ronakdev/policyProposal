@@ -3,8 +3,8 @@ A Demonstration of Github for Policy Proposal
 
 ## Categories
 
-1. Issue #1
-2. Issue #2
+1. [Issue #1](#issue-1)
+2. [Issue #2](#issue-2)
 
 
 

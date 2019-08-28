@@ -1,6 +1,8 @@
 # policyProposal
 A Demonstration of Github for Policy Proposal
 
+View the [deck](https://github.com/ronakdev/policyProposal/blob/master/Github%20Presentation.pdf) used for HHS' Chief Information Officer Leadership.
+
 ## Categories
 
 1. [Issue #1](#issue-1)
